@@ -7,7 +7,7 @@ I am Yeshi!
 - 🌱 I’m currently learning Bootstrap, Azure Development, and learning to get better on all technologies mentioned above. 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=akyeshi&&show-icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=akyeshi&&show-icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 <-- markdown for GitHub stats for later: 
