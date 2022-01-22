@@ -7,4 +7,4 @@ I am Yeshi!
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akyeshi&theme=radical)
+![Yeshi's github stats](https://github-readme-stats.vercel.app/api?username=akyeshi)
