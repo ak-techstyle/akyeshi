@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+<style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">
 I am Yeshi!
 
 - ⚡ I am currently attending MSSA(Microsoft System & Software Academy) learning C#, .NET Core MVC, WPF, T-SQL. 
@@ -9,3 +12,4 @@ I am Yeshi!
 
 ![Yeshi's github stats](https://github-readme-stats.vercel.app/api?username=akyeshi)
 
+</style>
