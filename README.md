@@ -6,6 +6,5 @@ I am Yeshi!
 - 🌱 I’m currently learning Bootstrap, Azure Development, and learning to get better on all technologies mentioned above. 
 
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akyeshi&theme=radical)
