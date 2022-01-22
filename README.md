@@ -6,6 +6,10 @@ I am Yeshi!
 - 🌱 I’m currently learning Bootstrap, Azure Development, and learning to get better on all technologies mentioned above. 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akyeshi&theme=tokyonight)
+
+
+
 <!--
 
 •choose different themes for GitHub Stats
