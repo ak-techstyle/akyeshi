@@ -6,6 +6,7 @@ I am Yeshi!
 - 🔭 Technologies I am working with and still learning, including C#, Java, Python, TypeScript, Dotnet Core MVC, Spring Boot, SQL, HTML/CSS/JS. 
 - 🌱 I’m currently learning Bootstrap, Azure Development, and learning to get better on all technologies mentioned above. 
 
+![Yeshi's github stats](https://github-readme-stats.vercel.app/api?username=akyeshi)
 
 
 
